@@ -1,2 +1,2 @@
 # c-code
-learning c
+learn c language
